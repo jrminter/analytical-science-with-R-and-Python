@@ -1,0 +1,5 @@
+book_filename: "analytical-science-with-R-and-Python"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
